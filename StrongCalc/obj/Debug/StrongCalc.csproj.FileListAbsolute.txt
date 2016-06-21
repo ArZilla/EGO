@@ -1,0 +1,14 @@
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\bin\Debug\StrongCalc.dll
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\bin\Debug\StrongCalc.pdb
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\bin\Debug\StrongCalc.StrongCalc.apk
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\bin\Debug\StrongCalc.StrongCalc-Signed.apk
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\obj\Debug\StrongCalc.dll
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\obj\Debug\StrongCalc.pdb
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\obj\Debug\android\bin\StrongCalc.StrongCalc.apk
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\obj\Debug\res\layout\main.xml
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\obj\Debug\res\values\strings.xml
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\obj\Debug\res\drawable\icon.png
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\obj\Debug\R.cs.flag
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\obj\Debug\uploadflags.txt
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\obj\Debug\StrongCalc.dll.mdb
+C:\Users\Tema\documents\visual studio 2015\Projects\StrongCalc\StrongCalc\bin\Debug\StrongCalc.dll.mdb

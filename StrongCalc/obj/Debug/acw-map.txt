@@ -1,0 +1,4 @@
+StrongCalc.MainActivity, StrongCalc;md57ee20ba78bf5b503dd0e9cf28922e4be.MainActivity
+StrongCalc.MainActivity, StrongCalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57ee20ba78bf5b503dd0e9cf28922e4be.MainActivity
+StrongCalc.MainActivity;md57ee20ba78bf5b503dd0e9cf28922e4be.MainActivity
+strongcalc.MainActivity;md57ee20ba78bf5b503dd0e9cf28922e4be.MainActivity
